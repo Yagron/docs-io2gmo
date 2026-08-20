@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Yagron.github.io/docs-io2gmo/sitemap.xml
